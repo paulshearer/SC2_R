@@ -1,0 +1,5 @@
+﻿,Starting QTY,Time to Build,Cost to Build Minerals,Cost to Build Gas,Cost to Build Supply,Current Activity,Minerals Rate per second,Gas rate per second,Supply Consumed,Depends On,Hit Points
+Command Center,1,100,400,0,0,NA,,,,,
+SCV,12,,,,,mining,0.94,,,,
+Supply Depot,0,30,100,,,,,,,,
+Refinery,0,30,75,0,0,NA,,,,Supply Depot,
